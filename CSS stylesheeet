@@ -1,6 +1,6 @@
 
-container {
-	display: flex width; 20
+.container {
+	display: flex;
 	height: 300px;
 	flex-wrap: wrap;
 }
@@ -11,6 +11,4 @@ container {
 
 .item-2 {
 	flex-grow: 2;
-}
-
 }
